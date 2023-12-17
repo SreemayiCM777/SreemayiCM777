@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Joyal+Shaji;joyalshaji135;Full+Stack+Developer;MERN+STACK!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Sreemayi+CM;sreemayicm777;Front+End+Developer;)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,11 +15,11 @@
         </a>
       </h1> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="joyalshaji135" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="sreemayicm777" /> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<p align="left"> <a href="https://twitter.com/joyalshaji135" target="blank"><img src="https://img.shields.io/twitter/follow/joyalshaji135?logo=twitter&style=for-the-badge" alt="joyalshaji135" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sreemayicm777" target="blank"><img src="https://img.shields.io/twitter/follow/sreemayicm777?logo=twitter&style=for-the-badge" alt="sreemayicm777" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **<a href="https://joyal-shaji.netlify.app/">Click Me </a>**
+- 📫 How to reach me **<a href="#">Click Me </a>**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -47,8 +47,8 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-</p><p> <a href="https://github.com/joyalshaji135" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyalshaji135&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
+</p><p> <a href="https://github.com/sreemayicm777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreemayicm777&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></a>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sreemayicm777&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="ovi" width="410" /></p>
 <hr>
 
 <h1 align="center">
@@ -59,9 +59,9 @@
   </p> 
 </div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joyalshaji135&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreemayicm777&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreemayicm777&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sreemayicm777&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     
 </div>
 </div>
@@ -71,7 +71,7 @@
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> 
 
-![](https://github-profile-trophy.vercel.app/?username=joyalshaji135&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sreemayicm777&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 </p>
 
@@ -91,19 +91,19 @@
 <p align = "center">
 
  
-  <img src = "https://github-contributor-stats.vercel.app/api?username=joyalshaji135&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true">
+  <img src = "https://github-contributor-stats.vercel.app/api?username=sreemayicm777&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true">
    &nbsp&nbsp&nbsp&nbsp
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sreemayicm777&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
 </p>
 
 
 <hr>
 
- <p><img align="left" width="1000" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="joyalshaji135" /></p> 
+ <p><img align="left" width="1000" src="https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg" alt="sreemayicm777" /></p> 
 
 <img align="center" alt="Code" width="1000" height="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalshaji135&label=Project%20views&color=0e75b6&style=flat" alt="joyalshaji135" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalshaji135&label=Project%20views&color=0e75b6&style=flat" alt="sreemayicm777" /> </p>
 
 
 <!-- <p><img align="left" width="900" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="joyalshaji135" /></p> -->
