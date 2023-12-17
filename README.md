@@ -103,7 +103,7 @@
 
 <img align="center" alt="Code" width="1000" height="500" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyalshaji135&label=Project%20views&color=0e75b6&style=flat" alt="sreemayicm777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreemayicm777&label=Project%20views&color=0e75b6&style=flat" alt="sreemayicm777" /> </p>
 
 
 <!-- <p><img align="left" width="900" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="joyalshaji135" /></p> -->
