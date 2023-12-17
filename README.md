@@ -21,9 +21,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <a href="https://twitter.com/sreemayicm777" target="blank"><img src="https://img.shields.io/twitter/follow/sreemayicm777?logo=twitter&style=for-the-badge" alt="sreemayicm777" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently Studing on **MCA**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **CSS**
 
 - 💬 Ask me about **MERN**
 
